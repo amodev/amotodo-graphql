@@ -1,0 +1,9 @@
+{
+  "generator-ptz-graphql": {
+    "promptValues": {
+      "appname": "amotodo-graphql",
+      "githubAuthor": "amodev",
+      "codecovToken": "cd5c73ea-5468-4a3a-b9f3-d494c7700616"
+    }
+  }
+}
